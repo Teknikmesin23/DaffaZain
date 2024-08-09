@@ -1,19 +1,11 @@
-# :earth_americas: GDP dashboard template
+# Aplikasi Klasifikasi Bunga Iris dengan Streamlit
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Aplikasi ini menggunakan Streamlit untuk membangun antarmuka interaktif yang memprediksi spesies bunga iris berdasarkan fitur yang dimasukkan pengguna.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+## Instalasi
 
-### How to run it on your own machine
+1. Clone repositori ini:
+   ```sh
+   git clone https://github.com/username/repo-name.git
+   cd repo-name
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
